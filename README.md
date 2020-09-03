@@ -1,12 +1,19 @@
-# MyGarden WIDGET
+# 𝙐𝙍𝙂𝙀𝙉𝙏!!
+>𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘪𝘯𝘪 𝘮𝘦𝘳𝘶𝘱𝘢𝘬𝘢𝘯 𝘩𝘢𝘴𝘪𝘭 𝘱𝘦𝘮𝘣𝘦𝘭𝘢𝘫𝘢𝘳𝘢𝘯 𝘥𝘢𝘳𝘪 𝘶𝘥𝘢𝘤𝘪𝘵𝘺.𝘤𝘰𝘮 𝘱𝘢𝘥𝘢 𝘣𝘢𝘨𝘪𝘢𝘯 𝘸𝘪𝘥𝘨𝘦𝘵. 
+𝘕𝘢𝘮𝘶𝘯, 𝘤𝘰𝘥𝘦 𝘱𝘢𝘥𝘢 𝘶𝘥𝘢𝘤𝘪𝘵𝘺 𝘴𝘶𝘥𝘢𝘩 𝘣𝘢𝘯𝘺𝘢𝘬 𝘺𝘢𝘯𝘨 𝘩𝘢𝘳𝘶𝘴 𝘥𝘪𝘳𝘦𝘷𝘪𝘴𝘪, 𝘫𝘢𝘥𝘪 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘥𝘪 𝘢𝘵𝘢𝘴 𝘴𝘶𝘥𝘢𝘩 𝘩𝘢𝘴𝘪𝘭 𝘳𝘦𝘷𝘪𝘴𝘪 𝘥𝘢𝘳𝘪 𝘤𝘰𝘥𝘦 𝘶𝘥𝘢𝘤𝘪𝘵𝘺 𝘺𝘢𝘯𝘨 𝘴𝘶𝘥𝘢𝘩 𝘭𝘢𝘮𝘢.
+𝘉𝘦𝘳𝘪𝘬𝘶𝘵 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪 𝘸𝘪𝘨𝘦𝘵 𝘥𝘪 𝘶𝘥𝘢𝘤𝘪𝘵𝘺: [𝘽𝙚𝙡𝙖𝙟𝙖𝙧 𝙒𝙞𝙙𝙜𝙚𝙩 𝙙𝙞 𝙐𝙙𝙖𝙘𝙞𝙩𝙮](https://classroom.udacity.com/courses/ud855/lessons/f133dd92-8e3c-40b9-9d9d-545498638459/concepts/cc786bc3-9fae-4ac2-9760-7269368b8787)
 
->Project ini merupakan hasil pembelajaran dari udacity.com pada bagian widget. 
-Namun, code pada udacity sudah banyak yang harus direvisi, jadi project di atas sudah hasil revisi dari code udacity yang sudah lama.
-Berikut video materi wiget di udacity: bit.ly/MyGardenWidgetUdacity
+# 𝙔𝙪𝙠𝙨 𝙗𝙚𝙡𝙖𝙟𝙖𝙧 𝙩𝙚𝙣𝙩𝙖𝙣𝙜 𝙒𝙄𝘿𝙂𝙀𝙏 !
+>🆆🅸🅳🅶🅴🆃 𝘢𝘥𝘢𝘭𝘢𝘩 𝘢𝘴𝘱𝘦𝘬 𝘱𝘦𝘯𝘵𝘪𝘯𝘨 𝘥𝘢𝘳𝘪 𝘬𝘶𝘴𝘵𝘰𝘮𝘪𝘴𝘢𝘴𝘪 𝘭𝘢𝘺𝘢𝘳 𝘢𝘸𝘢𝘭. 𝘈𝘯𝘥𝘢 𝘥𝘢𝘱𝘢𝘵 𝘮𝘦𝘮𝘣𝘢𝘺𝘢𝘯𝘨𝘬𝘢𝘯𝘯𝘺𝘢 𝘴𝘦𝘣𝘢𝘨𝘢𝘪 𝘵𝘢𝘮𝘱𝘪𝘭𝘢𝘯 "𝘴𝘦𝘬𝘪𝘭𝘢𝘴" 𝘥𝘢𝘳𝘪 𝘥𝘢𝘵𝘢 𝘥𝘢𝘯 𝘧𝘶𝘯𝘨𝘴𝘪𝘰𝘯𝘢𝘭𝘪𝘵𝘢𝘴 𝘢𝘱𝘭𝘪𝘬𝘢𝘴𝘪 𝘺𝘢𝘯𝘨 𝘱𝘢𝘭𝘪𝘯𝘨 𝘱𝘦𝘯𝘵𝘪𝘯𝘨 𝘺𝘢𝘯𝘨 𝘥𝘢𝘱𝘢𝘵 𝘥𝘪𝘢𝘬𝘴𝘦𝘴 𝘭𝘢𝘯𝘨𝘴𝘶𝘯𝘨 𝘥𝘢𝘳𝘪 𝘭𝘢𝘺𝘢𝘳 𝘢𝘸𝘢𝘭 𝘱𝘦𝘯𝘨𝘨𝘶𝘯𝘢. 𝘗𝘦𝘯𝘨𝘨𝘶𝘯𝘢 𝘥𝘢𝘱𝘢𝘵 𝘮𝘦𝘮𝘪𝘯𝘥𝘢𝘩𝘬𝘢𝘯 𝘸𝘪𝘥𝘨𝘦𝘵 𝘥𝘪 𝘱𝘢𝘯𝘦𝘭 𝘭𝘢𝘺𝘢𝘳 𝘢𝘸𝘢𝘭 𝘮𝘦𝘳𝘦𝘬𝘢, 𝘥𝘢𝘯, 𝘫𝘪𝘬𝘢 𝘥𝘪𝘥𝘶𝘬𝘶𝘯𝘨, 𝘮𝘦𝘯𝘨𝘶𝘣𝘢𝘩 𝘶𝘬𝘶𝘳𝘢𝘯𝘯𝘺𝘢 𝘶𝘯𝘵𝘶𝘬 𝘮𝘦𝘯𝘺𝘦𝘴𝘶𝘢𝘪𝘬𝘢𝘯 𝘫𝘶𝘮𝘭𝘢𝘩 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘥𝘢𝘭𝘢𝘮 𝘸𝘪𝘥𝘨𝘦𝘵 𝘴𝘦𝘴𝘶𝘢𝘪 𝘱𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘴𝘪 𝘮𝘦𝘳𝘦𝘬𝘢.
+𝙄𝙣𝙜𝙞𝙣 𝙢𝙚𝙣𝙜𝙚𝙣𝙖𝙡 𝙡𝙚𝙗𝙞𝙝 𝙙𝙖𝙡𝙖𝙢 𝙢𝙚𝙣𝙜𝙚𝙣𝙖𝙞 𝙒𝙄𝘿𝙂𝙀𝙏?
+[𝙋𝙚𝙡𝙖𝙟𝙖𝙧𝙞 𝙩𝙚𝙣𝙩𝙖𝙣𝙜 𝙒𝙞𝙙𝙜𝙚𝙩](https://developer.android.com/guide/topics/appwidgets/overview)
 
-![Alt Text](Screenshots/1.jpg) 
-![Alt Text](Screenshots/2.jpg) 
-![Alt Text](Screenshots/3.jpg)
+# 𝙈𝙮𝙂𝙖𝙧𝙙𝙚𝙣 𝙒𝙄𝘿𝙂𝙀𝙏 
+>𝘚𝘦𝘵𝘦𝘭𝘢𝘩 𝘬𝘪𝘵𝘢 𝘳𝘶𝘯 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰 𝘬𝘦𝘮𝘶𝘥𝘪𝘢𝘯 𝘢𝘬𝘢𝘯 𝘵𝘦𝘳𝘪𝘯𝘴𝘵𝘢𝘭 𝘱𝘢𝘥𝘢 𝘦𝘮𝘶𝘭𝘢𝘵𝘰𝘳 𝘢𝘱𝘭𝘪𝘬𝘢𝘴𝘪𝘯𝘺𝘢 𝘥𝘢𝘯 𝘢𝘬𝘢𝘯 𝘮𝘶𝘯𝘤𝘶𝘭 𝘴𝘦𝘱𝘦𝘳𝘵𝘪 𝘣𝘦𝘳𝘪𝘬𝘶𝘵, 𝘵𝘦𝘵𝘢𝘱𝘪 𝘣𝘦𝘭𝘶𝘮 𝘢𝘥𝘢 𝘵𝘢𝘯𝘢𝘮𝘢𝘯 𝘺𝘢𝘯𝘨 𝘵𝘦𝘳𝘵𝘢𝘮𝘣𝘢𝘩𝘬𝘢𝘯. 𝘜𝘯𝘵𝘶𝘬 𝘮𝘦𝘯𝘢𝘮𝘣𝘢𝘩𝘬𝘢𝘯 𝘵𝘢𝘯𝘢𝘮𝘢𝘯 𝘬𝘪𝘵𝘢 𝘣𝘪𝘴𝘢 𝘬𝘭𝘪𝘬 **𝘉𝘶𝘵𝘵𝘰𝘯 +** 𝘬𝘦𝘮𝘶𝘥𝘪𝘢𝘯 𝘢𝘬𝘢𝘯 𝘮𝘢𝘴𝘶𝘬 𝘬𝘦 𝘩𝘢𝘭𝘢𝘮𝘢𝘯 𝘣𝘦𝘳𝘪𝘬𝘶𝘵𝘯𝘺𝘢. 
 ![Alt Text](Screenshots/4.jpg) 
+![Alt Text](Screenshots/3.jpg)
 ![Alt Text](Screenshots/5.jpg)
-![Alt Text](Screenshots/6.jpg) 
+![Alt Text](Screenshots/6.jpg)
+![Alt Text](Screenshots/1.jpg)
+![Alt Text](Screenshots/7.jpg)
+![Alt Text](Screenshots/2.jpg) 
