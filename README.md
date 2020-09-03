@@ -1,4 +1,4 @@
 # My Garden
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) 
+![Screenshot1](Screenshots/1.png) ![Screenshot2](Screenshots/1.png) ![Screenshot3](Screenshots/1.png)
+![Screenshot4](Screenshots/1.png) ![Screenshot5](Screenshots/1.png) 
